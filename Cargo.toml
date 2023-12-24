@@ -1,0 +1,12 @@
+[package]
+name = "rustems-tests"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv = "1.3"
+polars = "0.35.4"
+polars-core = "0.35.4"
+polars-io = "0.35.4"
